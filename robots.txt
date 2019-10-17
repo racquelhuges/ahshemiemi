@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aethaifai.gitversion.net/sitemap.xml
